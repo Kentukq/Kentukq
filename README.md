@@ -1,4 +1,4 @@
-![snake](https://github.com/ТВОЙ_USERNAME/ТВОЙ_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![snake](https://github.com/ТВОЙ_USERNAME/Kentukq/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
 
