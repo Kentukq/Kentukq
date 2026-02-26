@@ -40,6 +40,8 @@
 
 #### 📈 Digital Marketing & SEO
 > **Ads:** ![Ads Manager](https://img.shields.io/badge/-Meta%20Ads-1877F2?logo=meta&logoColor=white) ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?logo=google-ads&logoColor=white) ![Yandex Direct](https://img.shields.io/badge/-Yandex-FF0000?logo=yandex&logoColor=white) ![TikTok Ads](https://img.shields.io/badge/-TikTok%20Ads-000000?logo=tiktok&logoColor=white) ![Telegram Ads](https://img.shields.io/badge/-TG%20Ads-26A5E4?logo=telegram&logoColor=white)  
+> **Analytics:** ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google-analytics&logoColor=white) ![Yandex Metrica](https://img.shields.io/badge/-Yandex%20Metrica-FF0000?logo=yandex&logoColor=white)  
+> **Webmaster Tools:** ![Google Search Console](https://img.shields.io/badge/-Search%20Console-4285F4?logo=google-search-console&logoColor=white) ![Yandex Webmaster](https://img.shields.io/badge/-Yandex%20Webmaster-FF0000?logo=yandex&logoColor=white)  
 > **SEO/CMS:** ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white) ![Tilda](https://img.shields.io/badge/-Tilda-000000) `Yoast SEO` `Semantic Core`  
 > **Management:** ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white) ![Google Sheets](https://img.shields.io/badge/-Sheets-34A853?logo=google-sheets&logoColor=white)
 
